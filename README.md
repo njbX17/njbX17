@@ -6,3 +6,4 @@ I am a BSc. (Hons) Computing student, pursuing my studies in The British College
 ## Skills
 - Python | Git & GitHub | Data Structures
 - Basic Web Development (HTML, CSS, JavaScript)
+- Basic Java Programming
